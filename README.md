@@ -23,7 +23,7 @@ This GitHub repository serves as a platform for some of the projects and I've co
 ## Connect with Me
 - **LinkedIn:** [Markus Hohwü Larsen](https://www.linkedin.com/in/markus-hohw%C3%BC-larsen-abb52b25b/)
 - **Email:** [markuslarsen1@gmail.com](mailto:markuslarsen1@gmail.com)
-- **GitHub:** [Markus-Hohwu-Larsen](https://github.com/Markus-Hohwu-Larsen)
+- **GitHub:** [Markus-Hohwu-Larsen](https://github.com/MarkusHohwuLarsen)
 
 ---
 
